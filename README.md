@@ -1,3 +1,11 @@
+This block explorer is a minimal replica of Etherscan that provides real-time insights into the blocks of the Ethereum blockchain. Leveraging a stack of powerful technologies including JSON-RPC API, CoinGecko API, TanStack Table, ethers v6, Next.js, luxon, TypeScript, and Styled Components, this project delivers an efficient and user-friendly platform for users to explore Ethereum blocks.
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
