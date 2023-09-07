@@ -1,7 +1,7 @@
 This block explorer is a minimal replica of Etherscan that provides real-time insights into the blocks of the Ethereum blockchain. this project delivers an efficient and user-friendly platform for users to explore Ethereum blocks.
 
 
-
+deployment -  https://ethereum-explorer-khetu3b9w-vimal-dubey.vercel.app/
 
 
 
